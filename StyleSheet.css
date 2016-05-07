@@ -1,0 +1,34 @@
+﻿*{
+   margin :0px 0px 0px 10px;                    
+   padding:0px;
+}
+
+body {
+     background-image:url("img/goaback2.jpg");
+     background-repeat:no-repeat;
+     background-size:cover;
+     font-family:Candara;
+     
+}
+
+
+#header{
+  position: absolute;
+  top: 10%;    
+  left:0;
+  right:0;
+  width: 30%;
+  height: 20%;
+  border:thin solid black;
+  text-overflow:ellipsis;
+  overflow:hidden;
+}
+#tableh{
+     float: right;
+}
+label{
+    background-color:lightpink;
+    text-align:right;
+    text-anchor:middle;
+    margin:auto;
+}
