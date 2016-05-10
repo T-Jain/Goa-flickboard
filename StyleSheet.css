@@ -4,7 +4,7 @@
 }
 
 body {
-     background-image:url("img/goaback2.jpg");
+     background-image:url("img/goa.jpg");
      background-repeat:no-repeat;
      background-size:cover;
      font-family:Candara;
@@ -32,3 +32,15 @@ label{
     text-anchor:middle;
     margin:auto;
 }
+.buttonstyle{
+    background-color:black;
+    border-top-left-radius:6px;
+    color:lavender;
+
+}
+ .buttonstyle:hover{
+    background-color:chocolate;
+}
+ .labelstyle{
+     margin:auto;
+ }
